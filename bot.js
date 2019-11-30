@@ -1933,4 +1933,4 @@ if(message.content == prefix+"عواصم"){
                                 
                                 
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.NjIyNjg2NTE2MTc0NTIwMzQ2.XeGe_w.9jmi2LXjT6HkfMNxTqMofpgGHhw);
